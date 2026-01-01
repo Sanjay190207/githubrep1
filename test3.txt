@@ -1,2 +1,7 @@
 git init for folder to git repository
 git add .
+create repository with same folder name
+git remote add origin "link"
+git branch
+to change git branch -M "main"
+git push origin main
